@@ -173,6 +173,6 @@ export default {
   position: relative;
 }
 #editing {
-  color: red;
+  color: blue;
 }
 </style>
